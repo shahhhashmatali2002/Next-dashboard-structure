@@ -41,7 +41,7 @@ const DashboardNavbar = (props: { showSidebar: boolean, toggleSidebar: () => voi
 
             {/* Custom Heading for E-Commerce Scraper */}
             <div className="flex-shrink-0 hover:scale-105 transition-transform">
-              <h1 className="text-white text-xl font-semibold">E-Commerce Scraper & Analyzer</h1>
+              <h1 className="text-white text-xl font-semibold">Title here</h1>
             </div>
           </div>
 
